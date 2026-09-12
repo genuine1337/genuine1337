@@ -1,16 +1,24 @@
-## Hi there 👋
+# A little bit about me
 
-<!--
-**genuine1337/genuine1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 18 years old
+- Moscow, NUST MISIS '30/'32 👨‍💻
+- Enjoy watching motorsports (F1, WEC), playing different types of games and lifting weights
 
-Here are some ideas to get you started:
+## PC configuration
+- AMD Ryzen 7 7500F (5.15GHz @1.15V)
+- NVIDIA GeForce RTX 3080 Ti Colorful Advanced
+- Kingbank 32GB DDR5 6000CL28 manual OC
+- ASRock B650M-HDV/M.2
+- Kingston KC3000 1TB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Peripherals
+- Rainy75 Standard/HMX Violet/No PE foam
+- ATK F1 V2 Ultimate
+- Zhulinniao Jinghong Z3
+- MGG UltraAceAim Purple
+
+
+
+
+
+
