@@ -2,7 +2,7 @@
 
 - 18 years old
 - Moscow, NUST MISIS '30/'32 👨‍💻
-- Enjoy watching motorsports (F1, WEC), playing different types of games and lifting weights
+- Enjoy watching motorsports (F1, WEC), playing different types of games
 
 ## PC configuration
 - AMD Ryzen 7 7500F (5.15GHz @1.15V)
